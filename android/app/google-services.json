@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "451301866816",
+    "project_id": "examamst2pg5",
+    "storage_bucket": "examamst2pg5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451301866816:android:5eabb5fb76552359e7cea5",
+        "android_client_info": {
+          "package_name": "com.example.examen2mora_guzman_mora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451301866816-tbkcbjrlt5lc7i1eu9gjarpv5v2ggkqk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.examen2mora_guzman_mora",
+            "certificate_hash": "c8d7c9fae6ab3a5f024731dd1d7f2a786e48a4fe"
+          }
+        },
+        {
+          "client_id": "451301866816-nrot2t9eicr2sse1nid0mfmvfmfvmqit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc4oUk2BgSR_71Be-Ao6T3UqboU2rCN2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451301866816-nrot2t9eicr2sse1nid0mfmvfmfvmqit.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
